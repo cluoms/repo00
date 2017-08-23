@@ -11,6 +11,7 @@
 - 写了函数subset.1，以便将来raw data有变时快速subset
 - 写了函数ssrank，以按数据分类级别（门纲目科属种）拆分表格——因为门纲目级别的数据将来未必能用。
 - **需要解决的问题**
+
 	0.update with github
 	1.写函数：增加一列litho，整理lithology1的内容使之便于作图
 	2.写函数：增加一列env，整理environment的内容使之便于作图
